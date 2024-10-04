@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>PHP FUNCTIONS</title>
+</head>
+<body>
+<?php
+echo "<u><h1 align='center'><font color='blue'>function in php</font></h1>";
+echo"</u>";
+echo"<h3><font color='red>array function</font></h3>";
+$arr=array("chese", "burger", "bread");
+echo"the array elements are:<br>";
+print_r($arr);
+echo"<br total count in array:" count($arr);
+echo"<br> Reverse of array value:";
+print_r(array_revese($arr);
+?>
+</html>
